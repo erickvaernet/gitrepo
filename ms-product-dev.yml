@@ -1,5 +1,5 @@
 server:
-  port: 8080
+  port: 8081
 
 spring:
   application:
@@ -20,9 +20,9 @@ management:
       enabled: true
   endpoint:
     info:
-      enable: true
+      enabled: true
     health:
-      enable: true
+      enabled: true
 
 info:
   app:
