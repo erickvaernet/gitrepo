@@ -17,7 +17,7 @@ management:
         include: info, refresh, health
   info:
     env:
-      enable: true
+      enabled: true
   endpoint:
     info:
       enable: true
