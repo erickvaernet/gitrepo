@@ -14,7 +14,7 @@ management:
   endpoints:
     web:
       exposure:
-        include: info,health
+        include: info, refresh, health
   info:
     env:
       enable: true
